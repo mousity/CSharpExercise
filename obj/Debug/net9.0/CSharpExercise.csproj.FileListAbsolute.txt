@@ -1,0 +1,15 @@
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\bin\Debug\net9.0\CSharpExercise.exe
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\bin\Debug\net9.0\CSharpExercise.deps.json
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\bin\Debug\net9.0\CSharpExercise.runtimeconfig.json
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\bin\Debug\net9.0\CSharpExercise.dll
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\bin\Debug\net9.0\CSharpExercise.pdb
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.AssemblyInfoInputs.cache
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.AssemblyInfo.cs
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.csproj.CoreCompileInputs.cache
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.sourcelink.json
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.dll
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\refint\CSharpExercise.dll
+c:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.pdb
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\CSharpExercise.genruntimeconfig.cache
+C:\Users\samrm\Documents\GitRepos\CsharpProjects\CSharpExercise\obj\Debug\net9.0\ref\CSharpExercise.dll

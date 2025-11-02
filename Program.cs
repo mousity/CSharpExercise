@@ -1,1 +1,3 @@
-﻿Console.Write("Welcome to the Math Game");
+﻿using CSharpExercise.Services;
+
+Game.run();
