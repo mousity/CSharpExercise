@@ -1,0 +1,1 @@
+﻿Console.Write("Welcome to the Math Game");
