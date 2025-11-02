@@ -1,0 +1,38 @@
+# Build output
+bin/
+obj/
+out/
+artifacts/
+
+# VS / Rider / VS Code
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.DotSettings.user
+.vscode/*.db
+.vscode/*.cache
+
+# Test results & coverage
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/packages/
+
+# Logs & temps
+*.log
+*.tlog
+*.pidb
+*.mdb
+
+# OS junk
+.DS_Store
+Thumbs.db
