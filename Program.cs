@@ -1,3 +1,3 @@
 ﻿using CSharpExercise.Services;
 
-Game.run();
+Game.Run();
