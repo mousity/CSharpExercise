@@ -20,6 +20,7 @@ public static class Game
             }
             else if (answer == 2)
             {
+                Console.WriteLine("Your history for this session:");
                 break;
             }
             else
