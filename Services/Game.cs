@@ -40,8 +40,22 @@ public static class Game
     {
         Random seed = new Random();
         int operation = seed.Next(1, 5);
+        int num1 = 0;
+        int num2 = 0;
+        int answer = 0;
 
-        Console.Write(operation);
+        if(operation == 1)
+        {
+            num1 = seed.Next(1, 100);
+            num2 = seed.Next(1, 100);
+            answer = num1 + num2;
+            Console.WriteLine("Add: " + num1 + " + " + num2);
+            int temp = int.Parse(Console.ReadLine());
+            if (temp == answer)
+            {
+                Console.WriteLine("Correct!");
+            }
+        }
     }
 
 
