@@ -38,7 +38,10 @@ public static class Game
     
     public static void Play()
     {
-        
+        Random seed = new Random();
+        int operation = seed.Next(1, 5);
+
+        Console.Write(operation);
     }
 
 
